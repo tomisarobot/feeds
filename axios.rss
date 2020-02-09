@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>axios</title>
-        <lastBuildDate>Sat, 08 Feb 2020 19:03:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <description>axios</description>
+        <link>http://google.com</link>
         
         <item>
             <title>Axios Login: Team Trump's 5G misfires — Apple makes its debate debut — Netflix' takedown requests detailed</title>
-            <guid>170201fcebdb1b1b</guid>
             <pubDate>Fri, 07 Feb 2020 08:47:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -508,7 +509,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Finger pointing over Iowa app — Europe's investigating Qualcomm again — Spotify's Ringer deal</title>
-            <guid>1701af66a600ac0f</guid>
             <pubDate>Thu, 06 Feb 2020 08:43:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -992,7 +992,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Another White House 5G plan — FCC's latest crackdown on robocalls — Virus fears hit Mobile World Congress</title>
-            <guid>17015d1a83e7c867</guid>
             <pubDate>Wed, 05 Feb 2020 08:43:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -1476,7 +1475,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: The bugs that crashed Iowa's caucus — YouTube's $15B haul  — No more BlackBerry phones</title>
-            <guid>170109dd3e500c7b</guid>
             <pubDate>Tue, 04 Feb 2020 08:28:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -1978,7 +1976,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Recommended for you</title>
-            <guid>1700cf2fea6e397d</guid>
             <pubDate>Mon, 03 Feb 2020 15:13:35 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -2244,7 +2241,6 @@ You received this email because you’re subscribed to Axios newsletters.<br />
         
         <item>
             <title>Axios Login: Super Bowl's 5G ad war — YouTube tweaks election policies — Intel axes AI chip line</title>
-            <guid>1700b831ecf8b17f</guid>
             <pubDate>Mon, 03 Feb 2020 08:42:13 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -2710,7 +2706,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Rometty out at IBM — Google meets with D.C. hands — Amazon's big earnings</title>
-            <guid>16ffc1742ce942b1</guid>
             <pubDate>Fri, 31 Jan 2020 08:51:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -3286,7 +3281,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook's unstoppable growth — Tech fights the coronavirus — Huawei's battle against "what if"</title>
-            <guid>16ff70a9452db1ac</guid>
             <pubDate>Thu, 30 Jan 2020 09:12:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -3844,7 +3838,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Apple earnings and China — Cities are key to 5G — Big Tech's climate questions</title>
-            <guid>16ff1c9e7e4e78cb</guid>
             <pubDate>Wed, 29 Jan 2020 08:48:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -4402,7 +4395,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech legislation — Coronavirus misinformation — The iPad turns 10</title>
-            <guid>16fecace7ca5becf</guid>
             <pubDate>Tue, 28 Jan 2020 09:00:50 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -4942,7 +4934,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's Davos — Europe's decision time on Huawei — Workers buck Amazon on climate</title>
-            <guid>16fe76ea4e92c153</guid>
             <pubDate>Mon, 27 Jan 2020 08:35:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -5500,7 +5491,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: The Bezos hack's shockwaves — The fight over auto airwaves — Broadcom's $15 billion Apple deal</title>
-            <guid>16fd80cfb5d03431</guid>
             <pubDate>Fri, 24 Jan 2020 08:54:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -6040,7 +6030,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook's Democrat problem — Decoding Apple's encryption — Internet voting gets a tryout</title>
-            <guid>16fd2e920c570e5e</guid>
             <pubDate>Thu, 23 Jan 2020 08:56:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -6580,7 +6569,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Europe's Huawei squeeze — Battle over .org intensifies — Cruise's self-driving van</title>
-            <guid>16fcdd1bbd3850d0</guid>
             <pubDate>Wed, 22 Jan 2020 09:13:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -7120,7 +7108,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Snapchat avoids the techlash — Huawei ready for more US "attacks" — The fight to save .org</title>
-            <guid>16fc88ca773c08fd</guid>
             <pubDate>Tue, 21 Jan 2020 08:40:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -7696,7 +7683,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's Davids vs. Goliaths — Microsoft's carbon-negative plan — Peacock's big bet on ads</title>
-            <guid>16fb3eff4f27da87</guid>
             <pubDate>Fri, 17 Jan 2020 08:35:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -8272,7 +8258,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: BlackBerry's latest incarnation — Apple's AI purchase — Amazon touts favorable survey</title>
-            <guid>16faed0ba92cd1f2</guid>
             <pubDate>Thu, 16 Jan 2020 08:44:20 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -8830,7 +8815,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Microsoft patches flaw — T-Mobile-Sprint closing arguments — 2019 patent list</title>
-            <guid>16fa9af6c181e100</guid>
             <pubDate>Wed, 15 Jan 2020 08:49:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -9370,7 +9354,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Google finds support vs. Oracle — Apple and DOJ battle again — Olive oil blockchain</title>
-            <guid>16fa45bdd6802358</guid>
             <pubDate>Tue, 14 Jan 2020 07:59:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -9910,7 +9893,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Big Tech vs. California — Exit Google's Drummond — New antitrust guidelines</title>
-            <guid>16f9f5fbf8c0c1d2</guid>
             <pubDate>Mon, 13 Jan 2020 08:47:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -10450,7 +10432,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech platforms struggle to police deepfakes — Zuck's 2020 campaign — On-demand layoffs</title>
-            <guid>16f8ff7ce32c572f</guid>
             <pubDate>Fri, 10 Jan 2020 08:57:18 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -10990,7 +10971,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook digs in heels on political ads — Twitter's "block replies" problem — J.D. Vance's fund</title>
-            <guid>16f8adf2f6183983</guid>
             <pubDate>Thu, 09 Jan 2020 09:09:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -11549,7 +11529,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: TCL not hiding its Chinese ties — TikTok tightens its rules — Interview with Arm CEO</title>
-            <guid>16f85c1f1bfd9d05</guid>
             <pubDate>Wed, 08 Jan 2020 09:24:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -12107,7 +12086,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Amazon execs defend Ring — White House wants light AI regulation — Cannabis tech smoked out of CES</title>
-            <guid>16f8094e12a23f5f</guid>
             <pubDate>Tue, 07 Jan 2020 09:16:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -12709,7 +12687,6 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's 2020 fights — Why Twitter won't flag Trump's tweets — Amazon's CES moves</title>
-            <guid>16f7b5773a950125</guid>
             <pubDate>Mon, 06 Jan 2020 08:50:13 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>tldrnewsletter</title>
-        <lastBuildDate>Sat, 08 Feb 2020 19:03:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <description>tldrnewsletter</description>
+        <link>http://google.com</link>
         
         <item>
             <title>SpaceX's Starlink IPO 🚀, DARPA recruits gamers 🎮, radiation eating fungus</title>
-            <guid>1701f5b741bcdd0e</guid>
             <pubDate>Fri, 07 Feb 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -28,7 +29,6 @@
         
         <item>
             <title>SpaceX Ridesharing 🚀, Spotify buys The Ringer 🎵, the night bus 🚌</title>
-            <guid>1701a3621ae84712</guid>
             <pubDate>Thu, 06 Feb 2020 05:15:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -50,7 +50,6 @@
         
         <item>
             <title>Google Photos leaks 🖼️, Galaxy S20 📱, 3D printed skin</title>
-            <guid>170150e94f5fdbec</guid>
             <pubDate>Wed, 05 Feb 2020 05:14:01 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -72,7 +71,6 @@
         
         <item>
             <title>Apple repairs 🛠️, hacking Tinder ❤️, party at Elon's 🎉</title>
-            <guid>1700fe8782faace6</guid>
             <pubDate>Tue, 04 Feb 2020 05:14:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -94,7 +92,6 @@
         
         <item>
             <title>Galaxy Flip leaks 📱, Elon's EDM 🎵, Cyborg jellyfish 🎐</title>
-            <guid>1700ab72752d1278</guid>
             <pubDate>Mon, 03 Feb 2020 05:02:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -116,7 +113,6 @@
         
         <item>
             <title>Apple's new Maps 🗺️, Zuckerberg's message 🤖, regeneration genes 💪</title>
-            <guid>16ffb4e2a5003569</guid>
             <pubDate>Fri, 31 Jan 2020 05:13:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -138,7 +134,6 @@
         
         <item>
             <title>Apple vs Putin📱, Japan's real Gundam 🤖, sweating robots</title>
-            <guid>16ff6272a3ffe573</guid>
             <pubDate>Thu, 30 Jan 2020 05:12:39 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -160,7 +155,6 @@
         
         <item>
             <title>Apple's record holiday 💰, video game hotels 🏨, doomsday glacier 🏔️</title>
-            <guid>16ff102cf46d6160</guid>
             <pubDate>Wed, 29 Jan 2020 05:14:50 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -182,7 +176,6 @@
         
         <item>
             <title>Elon's joyride 🏎️, Spotify Stories 🎶, commercial spaceflight 🚀</title>
-            <guid>16febdc718a99f71</guid>
             <pubDate>Tue, 28 Jan 2020 05:14:49 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -204,7 +197,6 @@
         
         <item>
             <title>Vine relaunches 📱, Quora layoffs 😔, mini-nuclear reactors ☢️</title>
-            <guid>16fe6b5d864917fd</guid>
             <pubDate>Mon, 27 Jan 2020 05:14:34 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -226,7 +218,6 @@
         
         <item>
             <title>Samsung's fridge garden 🌱, how a mummy's voice sounds 🔺</title>
-            <guid>16fd74a78a815f67</guid>
             <pubDate>Fri, 24 Jan 2020 05:22:59 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -248,7 +239,6 @@
         
         <item>
             <title>Wuhan quarantined 👾, Tesla hits $100B 💰, MSFT forces users to Bing 🔍</title>
-            <guid>16fd221bb16164dd</guid>
             <pubDate>Thu, 23 Jan 2020 05:20:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -270,7 +260,6 @@
         
         <item>
             <title>New iPhone 📱, Saudis hacked Bezos 💻, walking sharks 🦈</title>
-            <guid>16fccf598a73f5ab</guid>
             <pubDate>Wed, 22 Jan 2020 05:14:04 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -292,7 +281,6 @@
         
         <item>
             <title>Zomato buys Uber Eats IN 🍔, robot worms 🐛, moon dust 🌙</title>
-            <guid>16fc7c3fdb8572e4</guid>
             <pubDate>Tue, 21 Jan 2020 05:01:47 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -314,7 +302,6 @@
         
         <item>
             <title>DigitalOcean layoffs 👷, China's mystery virus 👾, SpaceX's success 🚀</title>
-            <guid>16fc2a9095494811</guid>
             <pubDate>Mon, 20 Jan 2020 05:14:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -336,7 +323,6 @@
         
         <item>
             <title>Google hits $1T, Smart contact lenses</title>
-            <guid>16fb336340b52e03</guid>
             <pubDate>Fri, 17 Jan 2020 05:14:31 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -358,7 +344,6 @@
         
         <item>
             <title>Mozilla Layoffs 😔, artificial neurons 💡, ancient viruses 👾</title>
-            <guid>16fae041e3f9b53d</guid>
             <pubDate>Thu, 16 Jan 2020 05:01:42 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -380,7 +365,6 @@
         
         <item>
             <title>Disney+ tops App Store 📺, Senegal's crypto city 🏙️</title>
-            <guid>16fa8e9674f5a081</guid>
             <pubDate>Wed, 15 Jan 2020 05:14:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -402,7 +386,6 @@
         
         <item>
             <title>Visa acquires Plaid for $5.3B 💰, living robots 🤖, Iran turns off internet</title>
-            <guid>16fa3c2d45ee8431</guid>
             <pubDate>Tue, 14 Jan 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -425,7 +408,6 @@
         
         <item>
             <title>Samsung Galaxy photos leak 📱, Mars 2020 🚀</title>
-            <guid>16f9e9c7a1dc494a</guid>
             <pubDate>Mon, 13 Jan 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -449,7 +431,6 @@
         
         <item>
             <title>Zuckerberg's 2030 goals 👨, Lime layoffs 🛴</title>
-            <guid>16f8f298e8ece80c</guid>
             <pubDate>Fri, 10 Jan 2020 05:14:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -471,7 +452,6 @@
         
         <item>
             <title>Self driving air taxis 🚁, Ring fires peeping toms 📹</title>
-            <guid>16f8a02d859a945a</guid>
             <pubDate>Thu, 09 Jan 2020 05:13:59 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -493,7 +473,6 @@
         
         <item>
             <title>Parallel reality displays 📺, Samsung's BB-8 clone 🤖, Elon dances</title>
-            <guid>16f84dc22d33eccf</guid>
             <pubDate>Wed, 08 Jan 2020 05:13:36 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -515,7 +494,6 @@
         
         <item>
             <title>Samsung's artificial human 👨, Toyota's city of the future 🏙️</title>
-            <guid>16f7fb47342bf588</guid>
             <pubDate>Tue, 07 Jan 2020 05:12:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -537,7 +515,6 @@
         
         <item>
             <title>Facebook's redesign 🎨, Tesla Autopilot fatalities 🚗</title>
-            <guid>16f7a90095ede999</guid>
             <pubDate>Mon, 06 Jan 2020 05:14:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -559,7 +536,6 @@
         
         <item>
             <title>Nissan CEO evades police 👮, Apple's surround sound patent 🔊</title>
-            <guid>16f6b1cc6a8c44ad</guid>
             <pubDate>Fri, 03 Jan 2020 05:14:05 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -581,7 +557,6 @@
         
         <item>
             <title>Elon delivers Teslas 🚗, startup loses 200,000 bikes 🚲</title>
-            <guid>16f65f65a6fdef19</guid>
             <pubDate>Thu, 02 Jan 2020 05:14:00 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>hackernewsletter</title>
-        <lastBuildDate>Sat, 08 Feb 2020 19:03:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <description>hackernewsletter</description>
+        <link>http://google.com</link>
         
         <item>
             <title>Hacker Newsletter #490</title>
-            <guid>1701f9b9f4ede864</guid>
             <pubDate>Fri, 07 Feb 2020 06:21:03 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -367,7 +368,6 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #489</title>
-            <guid>16ffba5fceb98f25</guid>
             <pubDate>Fri, 31 Jan 2020 06:48:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -736,7 +736,6 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #488</title>
-            <guid>16fd777da829dc68</guid>
             <pubDate>Fri, 24 Jan 2020 06:12:30 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1110,7 +1109,6 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #487</title>
-            <guid>16fb36d58db4da5f</guid>
             <pubDate>Fri, 17 Jan 2020 06:14:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1474,7 +1472,6 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #486</title>
-            <guid>16f8f6349b5e81da</guid>
             <pubDate>Fri, 10 Jan 2020 06:15:32 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1843,7 +1840,6 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #485</title>
-            <guid>16f707ef0ce28d55</guid>
             <pubDate>Sat, 04 Jan 2020 06:16:26 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

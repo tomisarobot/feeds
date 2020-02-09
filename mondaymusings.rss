@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>mondaymusings</title>
-        <lastBuildDate>Sat, 08 Feb 2020 19:03:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <description>mondaymusings</description>
+        <link>http://google.com</link>
         
         <item>
             <title>Friday Finds (2/7/20)</title>
-            <guid>170217caa6aeed74</guid>
             <pubDate>Fri, 07 Feb 2020 15:09:42 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -90,7 +91,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>New Essay: News in the Age of Abundance</title>
-            <guid>1701b8b0783b2883</guid>
             <pubDate>Thu, 06 Feb 2020 11:27:38 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -155,7 +155,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (2/3/20)</title>
-            <guid>1700d849a80ec629</guid>
             <pubDate>Mon, 03 Feb 2020 18:05:57 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -314,7 +313,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/31/20)</title>
-            <guid>16ffd77b1e3b8bc1</guid>
             <pubDate>Fri, 31 Jan 2020 15:17:55 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -391,7 +389,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/27/20)</title>
-            <guid>16fe92757055f54f</guid>
             <pubDate>Mon, 27 Jan 2020 16:37:46 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -595,7 +592,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/24/20)</title>
-            <guid>16fd9d7d924aa19a</guid>
             <pubDate>Fri, 24 Jan 2020 17:16:36 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -674,7 +670,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/20/20)</title>
-            <guid>16fc4ec54aa96b2d</guid>
             <pubDate>Mon, 20 Jan 2020 15:46:58 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -846,7 +841,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/17/20)</title>
-            <guid>16fb4c18c89e5413</guid>
             <pubDate>Fri, 17 Jan 2020 12:26:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -921,7 +915,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/13/2020)</title>
-            <guid>16fa094fb049cd22</guid>
             <pubDate>Mon, 13 Jan 2020 14:25:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -1103,7 +1096,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/10/20)</title>
-            <guid>16f907a1e3212783</guid>
             <pubDate>Fri, 10 Jan 2020 11:21:58 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -1177,7 +1169,6 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/6/20)</title>
-            <guid>16f7ba3e8296a5c4</guid>
             <pubDate>Mon, 06 Jan 2020 10:15:35 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>

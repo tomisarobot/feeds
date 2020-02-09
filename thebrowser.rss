@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>thebrowser</title>
-        <lastBuildDate>Sat, 08 Feb 2020 19:03:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <description>thebrowser</description>
+        <link>http://google.com</link>
         
         <item>
             <title>Seven Wonders Of The Week</title>
-            <guid>1702588befd0a958</guid>
             <pubDate>Sat, 08 Feb 2020 09:59:18 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
@@ -187,7 +188,6 @@
         
         <item>
             <title>Top Of The Week</title>
-            <guid>17024e68d8016f37</guid>
             <pubDate>Sat, 08 Feb 2020 07:01:33 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Top Of The Week </title><style>
@@ -368,7 +368,6 @@
         
         <item>
             <title>Yalta, Smoke, Queues, Homer, Air</title>
-            <guid>17012704f8234246</guid>
             <pubDate>Tue, 04 Feb 2020 17:01:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Yalta, Smoke, Queues, Homer, Air</title><style>
@@ -549,7 +548,6 @@
         
         <item>
             <title>Brains, Plato, Talent, Scruton, Games</title>
-            <guid>16fe874756ae5dd9</guid>
             <pubDate>Mon, 27 Jan 2020 13:20:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Brains, Plato, Talent, Scruton, Games </title><style>
@@ -727,7 +725,6 @@
         
         <item>
             <title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title>
-            <guid>16fe1c3553f6ec0f</guid>
             <pubDate>Sun, 26 Jan 2020 06:01:48 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title><style>
@@ -905,7 +902,6 @@
         
         <item>
             <title>Seven Wonders Of The Week</title>
-            <guid>16fc8480e679e056</guid>
             <pubDate>Tue, 21 Jan 2020 07:25:51 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
@@ -1058,7 +1054,6 @@
         
         <item>
             <title>So near, and yet so far</title>
-            <guid>16fb9580de290b35</guid>
             <pubDate>Sat, 18 Jan 2020 09:49:07 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title></title><meta charset="utf-8"><style>
