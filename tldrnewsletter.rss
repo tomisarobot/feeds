@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
     <channel>
         <title>tldrnewsletter</title>
-        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 14:28:45 CST</lastBuildDate>
         <description>tldrnewsletter</description>
-        <link>http://google.com</link>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss</link>
         
         <item>
             <title>SpaceX's Starlink IPO 🚀, DARPA recruits gamers 🎮, radiation eating fungus</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=1701f5b741bcdd0e</guid>
+            <description>SpaceX's Starlink IPO 🚀, DARPA recruits gamers 🎮, radiation eating fungus</description>
             <pubDate>Fri, 07 Feb 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -29,6 +35,8 @@
         
         <item>
             <title>SpaceX Ridesharing 🚀, Spotify buys The Ringer 🎵, the night bus 🚌</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=1701a3621ae84712</guid>
+            <description>SpaceX Ridesharing 🚀, Spotify buys The Ringer 🎵, the night bus 🚌</description>
             <pubDate>Thu, 06 Feb 2020 05:15:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -50,6 +58,8 @@
         
         <item>
             <title>Google Photos leaks 🖼️, Galaxy S20 📱, 3D printed skin</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=170150e94f5fdbec</guid>
+            <description>Google Photos leaks 🖼️, Galaxy S20 📱, 3D printed skin</description>
             <pubDate>Wed, 05 Feb 2020 05:14:01 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -71,6 +81,8 @@
         
         <item>
             <title>Apple repairs 🛠️, hacking Tinder ❤️, party at Elon's 🎉</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=1700fe8782faace6</guid>
+            <description>Apple repairs 🛠️, hacking Tinder ❤️, party at Elon's 🎉</description>
             <pubDate>Tue, 04 Feb 2020 05:14:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -92,6 +104,8 @@
         
         <item>
             <title>Galaxy Flip leaks 📱, Elon's EDM 🎵, Cyborg jellyfish 🎐</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=1700ab72752d1278</guid>
+            <description>Galaxy Flip leaks 📱, Elon's EDM 🎵, Cyborg jellyfish 🎐</description>
             <pubDate>Mon, 03 Feb 2020 05:02:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -113,6 +127,8 @@
         
         <item>
             <title>Apple's new Maps 🗺️, Zuckerberg's message 🤖, regeneration genes 💪</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16ffb4e2a5003569</guid>
+            <description>Apple's new Maps 🗺️, Zuckerberg's message 🤖, regeneration genes 💪</description>
             <pubDate>Fri, 31 Jan 2020 05:13:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -134,6 +150,8 @@
         
         <item>
             <title>Apple vs Putin📱, Japan's real Gundam 🤖, sweating robots</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16ff6272a3ffe573</guid>
+            <description>Apple vs Putin📱, Japan's real Gundam 🤖, sweating robots</description>
             <pubDate>Thu, 30 Jan 2020 05:12:39 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -155,6 +173,8 @@
         
         <item>
             <title>Apple's record holiday 💰, video game hotels 🏨, doomsday glacier 🏔️</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16ff102cf46d6160</guid>
+            <description>Apple's record holiday 💰, video game hotels 🏨, doomsday glacier 🏔️</description>
             <pubDate>Wed, 29 Jan 2020 05:14:50 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -176,6 +196,8 @@
         
         <item>
             <title>Elon's joyride 🏎️, Spotify Stories 🎶, commercial spaceflight 🚀</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16febdc718a99f71</guid>
+            <description>Elon's joyride 🏎️, Spotify Stories 🎶, commercial spaceflight 🚀</description>
             <pubDate>Tue, 28 Jan 2020 05:14:49 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -197,6 +219,8 @@
         
         <item>
             <title>Vine relaunches 📱, Quora layoffs 😔, mini-nuclear reactors ☢️</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fe6b5d864917fd</guid>
+            <description>Vine relaunches 📱, Quora layoffs 😔, mini-nuclear reactors ☢️</description>
             <pubDate>Mon, 27 Jan 2020 05:14:34 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -218,6 +242,8 @@
         
         <item>
             <title>Samsung's fridge garden 🌱, how a mummy's voice sounds 🔺</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fd74a78a815f67</guid>
+            <description>Samsung's fridge garden 🌱, how a mummy's voice sounds 🔺</description>
             <pubDate>Fri, 24 Jan 2020 05:22:59 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -239,6 +265,8 @@
         
         <item>
             <title>Wuhan quarantined 👾, Tesla hits $100B 💰, MSFT forces users to Bing 🔍</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fd221bb16164dd</guid>
+            <description>Wuhan quarantined 👾, Tesla hits $100B 💰, MSFT forces users to Bing 🔍</description>
             <pubDate>Thu, 23 Jan 2020 05:20:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -260,6 +288,8 @@
         
         <item>
             <title>New iPhone 📱, Saudis hacked Bezos 💻, walking sharks 🦈</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fccf598a73f5ab</guid>
+            <description>New iPhone 📱, Saudis hacked Bezos 💻, walking sharks 🦈</description>
             <pubDate>Wed, 22 Jan 2020 05:14:04 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -281,6 +311,8 @@
         
         <item>
             <title>Zomato buys Uber Eats IN 🍔, robot worms 🐛, moon dust 🌙</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fc7c3fdb8572e4</guid>
+            <description>Zomato buys Uber Eats IN 🍔, robot worms 🐛, moon dust 🌙</description>
             <pubDate>Tue, 21 Jan 2020 05:01:47 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -302,6 +334,8 @@
         
         <item>
             <title>DigitalOcean layoffs 👷, China's mystery virus 👾, SpaceX's success 🚀</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fc2a9095494811</guid>
+            <description>DigitalOcean layoffs 👷, China's mystery virus 👾, SpaceX's success 🚀</description>
             <pubDate>Mon, 20 Jan 2020 05:14:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -323,6 +357,8 @@
         
         <item>
             <title>Google hits $1T, Smart contact lenses</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fb336340b52e03</guid>
+            <description>Google hits $1T, Smart contact lenses</description>
             <pubDate>Fri, 17 Jan 2020 05:14:31 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -344,6 +380,8 @@
         
         <item>
             <title>Mozilla Layoffs 😔, artificial neurons 💡, ancient viruses 👾</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fae041e3f9b53d</guid>
+            <description>Mozilla Layoffs 😔, artificial neurons 💡, ancient viruses 👾</description>
             <pubDate>Thu, 16 Jan 2020 05:01:42 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -365,6 +403,8 @@
         
         <item>
             <title>Disney+ tops App Store 📺, Senegal's crypto city 🏙️</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fa8e9674f5a081</guid>
+            <description>Disney+ tops App Store 📺, Senegal's crypto city 🏙️</description>
             <pubDate>Wed, 15 Jan 2020 05:14:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -386,6 +426,8 @@
         
         <item>
             <title>Visa acquires Plaid for $5.3B 💰, living robots 🤖, Iran turns off internet</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16fa3c2d45ee8431</guid>
+            <description>Visa acquires Plaid for $5.3B 💰, living robots 🤖, Iran turns off internet</description>
             <pubDate>Tue, 14 Jan 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -408,6 +450,8 @@
         
         <item>
             <title>Samsung Galaxy photos leak 📱, Mars 2020 🚀</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f9e9c7a1dc494a</guid>
+            <description>Samsung Galaxy photos leak 📱, Mars 2020 🚀</description>
             <pubDate>Mon, 13 Jan 2020 05:14:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -431,6 +475,8 @@
         
         <item>
             <title>Zuckerberg's 2030 goals 👨, Lime layoffs 🛴</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f8f298e8ece80c</guid>
+            <description>Zuckerberg's 2030 goals 👨, Lime layoffs 🛴</description>
             <pubDate>Fri, 10 Jan 2020 05:14:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -452,6 +498,8 @@
         
         <item>
             <title>Self driving air taxis 🚁, Ring fires peeping toms 📹</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f8a02d859a945a</guid>
+            <description>Self driving air taxis 🚁, Ring fires peeping toms 📹</description>
             <pubDate>Thu, 09 Jan 2020 05:13:59 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -473,6 +521,8 @@
         
         <item>
             <title>Parallel reality displays 📺, Samsung's BB-8 clone 🤖, Elon dances</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f84dc22d33eccf</guid>
+            <description>Parallel reality displays 📺, Samsung's BB-8 clone 🤖, Elon dances</description>
             <pubDate>Wed, 08 Jan 2020 05:13:36 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -494,6 +544,8 @@
         
         <item>
             <title>Samsung's artificial human 👨, Toyota's city of the future 🏙️</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f7fb47342bf588</guid>
+            <description>Samsung's artificial human 👨, Toyota's city of the future 🏙️</description>
             <pubDate>Tue, 07 Jan 2020 05:12:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -515,6 +567,8 @@
         
         <item>
             <title>Facebook's redesign 🎨, Tesla Autopilot fatalities 🚗</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f7a90095ede999</guid>
+            <description>Facebook's redesign 🎨, Tesla Autopilot fatalities 🚗</description>
             <pubDate>Mon, 06 Jan 2020 05:14:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -536,6 +590,8 @@
         
         <item>
             <title>Nissan CEO evades police 👮, Apple's surround sound patent 🔊</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f6b1cc6a8c44ad</guid>
+            <description>Nissan CEO evades police 👮, Apple's surround sound patent 🔊</description>
             <pubDate>Fri, 03 Jan 2020 05:14:05 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>
@@ -557,6 +613,8 @@
         
         <item>
             <title>Elon delivers Teslas 🚗, startup loses 200,000 bikes 🚲</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/tldrnewsletter.rss?id=16f65f65a6fdef19</guid>
+            <description>Elon delivers Teslas 🚗, startup loses 200,000 bikes 🚲</description>
             <pubDate>Thu, 02 Jan 2020 05:14:00 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html><html><head><title>TLDR Daily Update</title></head><body>

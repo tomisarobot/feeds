@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
     <channel>
         <title>thebrowser</title>
-        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 14:28:45 CST</lastBuildDate>
         <description>thebrowser</description>
-        <link>http://google.com</link>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss</link>
         
         <item>
             <title>Seven Wonders Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=1702588befd0a958</guid>
+            <description>Seven Wonders Of The Week</description>
             <pubDate>Sat, 08 Feb 2020 09:59:18 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
@@ -188,6 +194,8 @@
         
         <item>
             <title>Top Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=17024e68d8016f37</guid>
+            <description>Top Of The Week</description>
             <pubDate>Sat, 08 Feb 2020 07:01:33 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Top Of The Week </title><style>
@@ -368,6 +376,8 @@
         
         <item>
             <title>Yalta, Smoke, Queues, Homer, Air</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=17012704f8234246</guid>
+            <description>Yalta, Smoke, Queues, Homer, Air</description>
             <pubDate>Tue, 04 Feb 2020 17:01:22 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Yalta, Smoke, Queues, Homer, Air</title><style>
@@ -548,6 +558,8 @@
         
         <item>
             <title>Brains, Plato, Talent, Scruton, Games</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fe874756ae5dd9</guid>
+            <description>Brains, Plato, Talent, Scruton, Games</description>
             <pubDate>Mon, 27 Jan 2020 13:20:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Brains, Plato, Talent, Scruton, Games </title><style>
@@ -725,6 +737,8 @@
         
         <item>
             <title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fe1c3553f6ec0f</guid>
+            <description>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</description>
             <pubDate>Sun, 26 Jan 2020 06:01:48 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title><style>
@@ -902,6 +916,8 @@
         
         <item>
             <title>Seven Wonders Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fc8480e679e056</guid>
+            <description>Seven Wonders Of The Week</description>
             <pubDate>Tue, 21 Jan 2020 07:25:51 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
@@ -1054,6 +1070,8 @@
         
         <item>
             <title>So near, and yet so far</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fb9580de290b35</guid>
+            <description>So near, and yet so far</description>
             <pubDate>Sat, 18 Jan 2020 09:49:07 CST</pubDate>
             <content:encoded>
                 <![CDATA[<html><head><title></title><meta charset="utf-8"><style>

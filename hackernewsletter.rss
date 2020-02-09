@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
     <channel>
         <title>hackernewsletter</title>
-        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 14:28:45 CST</lastBuildDate>
         <description>hackernewsletter</description>
-        <link>http://google.com</link>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss</link>
         
         <item>
             <title>Hacker Newsletter #490</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=1701f9b9f4ede864</guid>
+            <description>Hacker Newsletter #490</description>
             <pubDate>Fri, 07 Feb 2020 06:21:03 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -368,6 +374,8 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #489</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=16ffba5fceb98f25</guid>
+            <description>Hacker Newsletter #489</description>
             <pubDate>Fri, 31 Jan 2020 06:48:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -736,6 +744,8 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #488</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=16fd777da829dc68</guid>
+            <description>Hacker Newsletter #488</description>
             <pubDate>Fri, 24 Jan 2020 06:12:30 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1109,6 +1119,8 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #487</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=16fb36d58db4da5f</guid>
+            <description>Hacker Newsletter #487</description>
             <pubDate>Fri, 17 Jan 2020 06:14:09 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1472,6 +1484,8 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #486</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=16f8f6349b5e81da</guid>
+            <description>Hacker Newsletter #486</description>
             <pubDate>Fri, 10 Jan 2020 06:15:32 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -1840,6 +1854,8 @@ Not a subscriber? Subscribe at <a style="color:#3B6B9B;text-decoration:underline
         
         <item>
             <title>Hacker Newsletter #485</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/hackernewsletter.rss?id=16f707ef0ce28d55</guid>
+            <description>Hacker Newsletter #485</description>
             <pubDate>Sat, 04 Jan 2020 06:16:26 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
     <channel>
         <title>axios</title>
-        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 14:28:45 CST</lastBuildDate>
         <description>axios</description>
-        <link>http://google.com</link>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss</link>
         
         <item>
             <title>Axios Login: Team Trump's 5G misfires — Apple makes its debate debut — Netflix' takedown requests detailed</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=170201fcebdb1b1b</guid>
+            <description>Axios Login: Team Trump's 5G misfires — Apple makes its debate debut — Netflix' takedown requests detailed</description>
             <pubDate>Fri, 07 Feb 2020 08:47:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -509,6 +515,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Finger pointing over Iowa app — Europe's investigating Qualcomm again — Spotify's Ringer deal</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=1701af66a600ac0f</guid>
+            <description>Axios Login: Finger pointing over Iowa app — Europe's investigating Qualcomm again — Spotify's Ringer deal</description>
             <pubDate>Thu, 06 Feb 2020 08:43:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -992,6 +1000,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Another White House 5G plan — FCC's latest crackdown on robocalls — Virus fears hit Mobile World Congress</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=17015d1a83e7c867</guid>
+            <description>Axios Login: Another White House 5G plan — FCC's latest crackdown on robocalls — Virus fears hit Mobile World Congress</description>
             <pubDate>Wed, 05 Feb 2020 08:43:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -1475,6 +1485,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: The bugs that crashed Iowa's caucus — YouTube's $15B haul  — No more BlackBerry phones</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=170109dd3e500c7b</guid>
+            <description>Axios Login: The bugs that crashed Iowa's caucus — YouTube's $15B haul  — No more BlackBerry phones</description>
             <pubDate>Tue, 04 Feb 2020 08:28:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -1976,6 +1988,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Recommended for you</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=1700cf2fea6e397d</guid>
+            <description>Recommended for you</description>
             <pubDate>Mon, 03 Feb 2020 15:13:35 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -2241,6 +2255,8 @@ You received this email because you’re subscribed to Axios newsletters.<br />
         
         <item>
             <title>Axios Login: Super Bowl's 5G ad war — YouTube tweaks election policies — Intel axes AI chip line</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=1700b831ecf8b17f</guid>
+            <description>Axios Login: Super Bowl's 5G ad war — YouTube tweaks election policies — Intel axes AI chip line</description>
             <pubDate>Mon, 03 Feb 2020 08:42:13 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -2706,6 +2722,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Rometty out at IBM — Google meets with D.C. hands — Amazon's big earnings</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16ffc1742ce942b1</guid>
+            <description>Axios Login: Rometty out at IBM — Google meets with D.C. hands — Amazon's big earnings</description>
             <pubDate>Fri, 31 Jan 2020 08:51:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -3281,6 +3299,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook's unstoppable growth — Tech fights the coronavirus — Huawei's battle against "what if"</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16ff70a9452db1ac</guid>
+            <description>Axios Login: Facebook's unstoppable growth — Tech fights the coronavirus — Huawei's battle against "what if"</description>
             <pubDate>Thu, 30 Jan 2020 09:12:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -3838,6 +3858,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Apple earnings and China — Cities are key to 5G — Big Tech's climate questions</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16ff1c9e7e4e78cb</guid>
+            <description>Axios Login: Apple earnings and China — Cities are key to 5G — Big Tech's climate questions</description>
             <pubDate>Wed, 29 Jan 2020 08:48:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -4395,6 +4417,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech legislation — Coronavirus misinformation — The iPad turns 10</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fecace7ca5becf</guid>
+            <description>Axios Login: Tech legislation — Coronavirus misinformation — The iPad turns 10</description>
             <pubDate>Tue, 28 Jan 2020 09:00:50 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -4934,6 +4958,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's Davos — Europe's decision time on Huawei — Workers buck Amazon on climate</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fe76ea4e92c153</guid>
+            <description>Axios Login: Tech's Davos — Europe's decision time on Huawei — Workers buck Amazon on climate</description>
             <pubDate>Mon, 27 Jan 2020 08:35:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -5491,6 +5517,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: The Bezos hack's shockwaves — The fight over auto airwaves — Broadcom's $15 billion Apple deal</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fd80cfb5d03431</guid>
+            <description>Axios Login: The Bezos hack's shockwaves — The fight over auto airwaves — Broadcom's $15 billion Apple deal</description>
             <pubDate>Fri, 24 Jan 2020 08:54:25 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -6030,6 +6058,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook's Democrat problem — Decoding Apple's encryption — Internet voting gets a tryout</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fd2e920c570e5e</guid>
+            <description>Axios Login: Facebook's Democrat problem — Decoding Apple's encryption — Internet voting gets a tryout</description>
             <pubDate>Thu, 23 Jan 2020 08:56:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -6569,6 +6599,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Europe's Huawei squeeze — Battle over .org intensifies — Cruise's self-driving van</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fcdd1bbd3850d0</guid>
+            <description>Axios Login: Europe's Huawei squeeze — Battle over .org intensifies — Cruise's self-driving van</description>
             <pubDate>Wed, 22 Jan 2020 09:13:21 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -7108,6 +7140,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Snapchat avoids the techlash — Huawei ready for more US "attacks" — The fight to save .org</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fc88ca773c08fd</guid>
+            <description>Axios Login: Snapchat avoids the techlash — Huawei ready for more US "attacks" — The fight to save .org</description>
             <pubDate>Tue, 21 Jan 2020 08:40:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -7683,6 +7717,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's Davids vs. Goliaths — Microsoft's carbon-negative plan — Peacock's big bet on ads</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fb3eff4f27da87</guid>
+            <description>Axios Login: Tech's Davids vs. Goliaths — Microsoft's carbon-negative plan — Peacock's big bet on ads</description>
             <pubDate>Fri, 17 Jan 2020 08:35:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -8258,6 +8294,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: BlackBerry's latest incarnation — Apple's AI purchase — Amazon touts favorable survey</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16faed0ba92cd1f2</guid>
+            <description>Axios Login: BlackBerry's latest incarnation — Apple's AI purchase — Amazon touts favorable survey</description>
             <pubDate>Thu, 16 Jan 2020 08:44:20 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -8815,6 +8853,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Microsoft patches flaw — T-Mobile-Sprint closing arguments — 2019 patent list</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fa9af6c181e100</guid>
+            <description>Axios Login: Microsoft patches flaw — T-Mobile-Sprint closing arguments — 2019 patent list</description>
             <pubDate>Wed, 15 Jan 2020 08:49:23 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -9354,6 +9394,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Google finds support vs. Oracle — Apple and DOJ battle again — Olive oil blockchain</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16fa45bdd6802358</guid>
+            <description>Axios Login: Google finds support vs. Oracle — Apple and DOJ battle again — Olive oil blockchain</description>
             <pubDate>Tue, 14 Jan 2020 07:59:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -9893,6 +9935,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Big Tech vs. California — Exit Google's Drummond — New antitrust guidelines</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f9f5fbf8c0c1d2</guid>
+            <description>Axios Login: Big Tech vs. California — Exit Google's Drummond — New antitrust guidelines</description>
             <pubDate>Mon, 13 Jan 2020 08:47:17 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -10432,6 +10476,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech platforms struggle to police deepfakes — Zuck's 2020 campaign — On-demand layoffs</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f8ff7ce32c572f</guid>
+            <description>Axios Login: Tech platforms struggle to police deepfakes — Zuck's 2020 campaign — On-demand layoffs</description>
             <pubDate>Fri, 10 Jan 2020 08:57:18 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -10971,6 +11017,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Facebook digs in heels on political ads — Twitter's "block replies" problem — J.D. Vance's fund</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f8adf2f6183983</guid>
+            <description>Axios Login: Facebook digs in heels on political ads — Twitter's "block replies" problem — J.D. Vance's fund</description>
             <pubDate>Thu, 09 Jan 2020 09:09:11 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -11529,6 +11577,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: TCL not hiding its Chinese ties — TikTok tightens its rules — Interview with Arm CEO</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f85c1f1bfd9d05</guid>
+            <description>Axios Login: TCL not hiding its Chinese ties — TikTok tightens its rules — Interview with Arm CEO</description>
             <pubDate>Wed, 08 Jan 2020 09:24:15 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -12086,6 +12136,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Amazon execs defend Ring — White House wants light AI regulation — Cannabis tech smoked out of CES</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f8094e12a23f5f</guid>
+            <description>Axios Login: Amazon execs defend Ring — White House wants light AI regulation — Cannabis tech smoked out of CES</description>
             <pubDate>Tue, 07 Jan 2020 09:16:16 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>
@@ -12687,6 +12739,8 @@ View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1c
         
         <item>
             <title>Axios Login: Tech's 2020 fights — Why Twitter won't flag Trump's tweets — Amazon's CES moves</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=16f7b5773a950125</guid>
+            <description>Axios Login: Tech's 2020 fights — Why Twitter won't flag Trump's tweets — Amazon's CES moves</description>
             <pubDate>Mon, 06 Jan 2020 08:50:13 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!doctype html>

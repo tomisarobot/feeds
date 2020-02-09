@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
     <channel>
         <title>mondaymusings</title>
-        <lastBuildDate>Sun, 09 Feb 2020 13:53:52 CST</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 14:28:45 CST</lastBuildDate>
         <description>mondaymusings</description>
-        <link>http://google.com</link>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss</link>
         
         <item>
             <title>Friday Finds (2/7/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=170217caa6aeed74</guid>
+            <description>Friday Finds (2/7/20)</description>
             <pubDate>Fri, 07 Feb 2020 15:09:42 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -91,6 +97,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>New Essay: News in the Age of Abundance</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=1701b8b0783b2883</guid>
+            <description>New Essay: News in the Age of Abundance</description>
             <pubDate>Thu, 06 Feb 2020 11:27:38 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -155,6 +163,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (2/3/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=1700d849a80ec629</guid>
+            <description>Monday Musings (2/3/20)</description>
             <pubDate>Mon, 03 Feb 2020 18:05:57 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -313,6 +323,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/31/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16ffd77b1e3b8bc1</guid>
+            <description>Friday Finds (1/31/20)</description>
             <pubDate>Fri, 31 Jan 2020 15:17:55 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -389,6 +401,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/27/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16fe92757055f54f</guid>
+            <description>Monday Musings (1/27/20)</description>
             <pubDate>Mon, 27 Jan 2020 16:37:46 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -592,6 +606,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/24/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16fd9d7d924aa19a</guid>
+            <description>Friday Finds (1/24/20)</description>
             <pubDate>Fri, 24 Jan 2020 17:16:36 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -670,6 +686,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/20/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16fc4ec54aa96b2d</guid>
+            <description>Monday Musings (1/20/20)</description>
             <pubDate>Mon, 20 Jan 2020 15:46:58 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -841,6 +859,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/17/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16fb4c18c89e5413</guid>
+            <description>Friday Finds (1/17/20)</description>
             <pubDate>Fri, 17 Jan 2020 12:26:19 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -915,6 +935,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/13/2020)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16fa094fb049cd22</guid>
+            <description>Monday Musings (1/13/2020)</description>
             <pubDate>Mon, 13 Jan 2020 14:25:14 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -1096,6 +1118,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Friday Finds (1/10/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16f907a1e3212783</guid>
+            <description>Friday Finds (1/10/20)</description>
             <pubDate>Fri, 10 Jan 2020 11:21:58 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
@@ -1169,6 +1193,8 @@ If you'd like to update your email settings, choose one of the options below.
         
         <item>
             <title>Monday Musings (1/6/20)</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/mondaymusings.rss?id=16f7ba3e8296a5c4</guid>
+            <description>Monday Musings (1/6/20)</description>
             <pubDate>Mon, 06 Jan 2020 10:15:35 CST</pubDate>
             <content:encoded>
                 <![CDATA[<!DOCTYPE html>
